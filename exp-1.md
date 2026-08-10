@@ -229,6 +229,32 @@ The volatile and non-volatile forensic evidence can be successfully acquired usi
 
 The acquired evidence can be verified using hash values to help ensure its integrity.
 
+
+<img width="347" height="247" alt="6" src="https://github.com/user-attachments/assets/2e8b20a0-f9d5-41be-92e0-9cb27a0aa93a" />
+
+<img width="1460" height="1077" alt="5 (2)" src="https://github.com/user-attachments/assets/2aef1fa0-b3fb-4e52-b0bd-385b61f92958" />
+
+
+<img width="171" height="121" alt="1 - Copy" src="https://github.com/user-attachments/assets/4ce0e84e-4606-4d65-8a33-cf9b21b08641" />
+
+
+<img width="340" height="275" alt="2" src="https://github.com/user-attachments/assets/90d7da3b-7d30-4596-ad2c-1c660b53359a" />
+
+
+<img width="340" height="272" alt="3" src="https://github.com/user-attachments/assets/a668a336-a03b-4644-b6a4-0d91b7ee3e86" />
+
+
+<img width="343" height="246" alt="4" src="https://github.com/user-attachments/assets/aba790cc-f084-4949-9e37-06c78b667aad" />
+
+
+<img width="959" height="272" alt="10" src="https://github.com/user-attachments/assets/ea40c0f9-cca0-4d0d-b9ba-24801845b998" />
+
+
+<img width="1240" height="1269" alt="11 (2)" src="https://github.com/user-attachments/assets/4ac29544-d414-43ac-9f67-1554db7968a1" />
+
+
+<img width="310" height="322" alt="12" src="https://github.com/user-attachments/assets/06d22aac-2659-464b-984a-98e3a7020347" />
+
 ---
 
 # Conclusion
